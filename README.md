@@ -166,3 +166,7 @@ integration: полный HTTP-сценарий register/login/me + негати
 
 - [ ] Интерфейс RabbitMQ Management с активными очередями/consumers
 ![Redis](screens/redis.png)
+
+## RabbitMQ
+![RabbitMQ](screens/rabbitmq.png)
+

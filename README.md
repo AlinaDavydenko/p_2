@@ -150,8 +150,18 @@ integration: полный HTTP-сценарий register/login/me + негати
 
 ## Скриншоты (для сдачи проекта)
 
-- [screens/auth_register.png] Swagger Auth Service: регистрация, логин, `/auth/me`
+![Swagger Auth Service: регистрация](screens/auth_register.png)
+![Swagger Auth Service: логин](screens/login.png)
+![Swagger Auth Service: get me](screens/get_me.png)
+![Swagger Auth Service: secret key](screens/secret_key.png)
+![Swagger Auth Service: get health](screens/get_health.png)
+![]()
+![]()
+![]()
+
 - [ ] Диалог с Telegram-ботом: `/token`, отправка сообщения, получение ответа LLM
 - [ ] Интерфейс RabbitMQ Management с активными очередями/consumers
 - [ ] Вывод `pytest` для обоих сервисов (все тесты зелёные)
+
+![]()
 

@@ -159,11 +159,16 @@ integration: полный HTTP-сценарий register/login/me + негати
 ## Testing
 ![Auth Service](screens/test_auth.png)
 ![Bot Service](screens/bot_service.png)
+
+## Bot 
+### (жалуется, что надо платить, к сожалению, я бедный студент)
+![Bot service](screens/bot.png)
+![]()
 ![]()
 
-- [ ] Диалог с Telegram-ботом: `/token`, отправка сообщения, получение ответа LLM
 - [ ] Интерфейс RabbitMQ Management с активными очередями/consumers
-- [ ] Вывод `pytest` для обоих сервисов (все тесты зелёные)
-
+![]()
+![]()
+![]()
 ![]()
 

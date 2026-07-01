@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.uv/
+*.db
+.pytest_cache/
+.ruff_cache/
+.env.local
+docs/screenshots/*
+!docs/screenshots/.gitkeep
+.env
+auth_service/.env
+bot_service/.env

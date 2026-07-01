@@ -155,8 +155,10 @@ integration: полный HTTP-сценарий register/login/me + негати
 ![Swagger Auth Service: get me](screens/get_me.png)
 ![Swagger Auth Service: secret key](screens/secret_key.png)
 ![Swagger Auth Service: get health](screens/get_health.png)
-![]()
-![]()
+
+## Testing
+![Auth Service](screens/test_auth.png)
+![Bot Service](screens/bot_service.png)
 ![]()
 
 - [ ] Диалог с Telegram-ботом: `/token`, отправка сообщения, получение ответа LLM

@@ -163,12 +163,6 @@ integration: полный HTTP-сценарий register/login/me + негати
 ## Bot 
 ### (жалуется, что надо платить, к сожалению, я бедный студент)
 ![Bot service](screens/bot.png)
-![]()
-![]()
 
 - [ ] Интерфейс RabbitMQ Management с активными очередями/consumers
-![]()
-![]()
-![]()
-![]()
-
+![Redis](screens/redis.png)
